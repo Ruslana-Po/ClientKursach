@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/resur">
+        <file>mg/овощи.png</file>
+        <file>mg/png.png</file>
+        <file>mg/сухо.png</file>
+        <file>mg/мясо.png</file>
+        <file>mg/молок.png</file>
+        <file>mg/сыр.png</file>
+        <file>mg/крупы.png</file>
+        <file>mg/шок.png</file>
+        <file>mg/напит.png</file>
+        <file>mg/хлеб.png</file>
+        <file>mg/корзина.png</file>
+        <file>mg/карта.png</file>
+        <file>mg/QR.png</file>
+    </qresource>
+</RCC>
